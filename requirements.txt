@@ -1,0 +1,6 @@
+jupyter
+pandas
+xlrd
+pyarrow
+openpyxl
+seaborn
